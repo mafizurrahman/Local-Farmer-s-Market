@@ -25,6 +25,18 @@ A dynamic e-commerce platform connecting local farmers with consumers, facilitat
   - Product search and filtering
   - Shopping cart functionality
   - Order management
+- **Bidding System:**
+  - Product auction management with detailed descriptions
+  - Real-time bid tracking and history
+  - Automated auction end-time management
+  - Individual bid records with bidder information
+  - Contact information for successful bidders
+- **Visitor Management:**
+  - Visitor registration and tracking
+  - Purpose of visit documentation
+  - Contact information management
+  - Visitor analytics and reporting
+
 
 ## 🚀 Getting Started
 
